@@ -9,8 +9,55 @@ h1, h2, h3, p{
     color: #2E2F42;
 }
 
+a {
+    text-decoration: none;
+    color: #2E2F42;
+}
+
 ul{
     list-style: none;
+}
+
+.logo-link{
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4D5AE5;
+    text-transform: uppercase;
+}
+
+.logo-link:hover{
+    font-size: 20px;
+}
+
+.header-logo{
+    color: #2E2F42;
+}
+
+.header-nav-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.header-nav-item:hover{
+    font-weight: 700;
+}
+
+.address{
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.address-mail:hover{
+    font-weight: 700;
+    color: black;
+}
+
+.address-phone:hover{
+    font-weight: 700;
+    color: black;
 }
 
 .hero{
@@ -127,10 +174,6 @@ ul{
 
 .footer-logo{
     color: #F4F4FD;
-    text-transform: uppercase;
-    font-family: Raleway;
-    font-size: 18px;
-    line-height: 21px;
 }
 
 .footer-text{

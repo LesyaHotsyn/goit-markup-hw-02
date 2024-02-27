@@ -1,4 +1,62 @@
 body{
     font-family: 'Roboto', "Raleway", sans-serif;
     font-style: normal;
+    font-weight: 400;
+    max-width: 1440px;
 }
+
+ul{
+    list-style: none;
+}
+
+.hero{
+    background-color: #2E2F42;
+    height: 600px;
+    color: white;
+}
+
+.hero-title{
+    font-size: 56px;
+    width: 496px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+}
+
+.hero-button{
+    background-color: #4D5AE5;
+    color: white;
+    width: 169px;
+    height: 56px;
+    border-radius: 4px;
+}
+
+.feature{
+    width: 1128px;
+    line-height: 24px; 
+    color: #2E2F42;
+}
+
+.li-feature{
+    width: 264px;
+}
+
+.feature-title{
+    font-weight: 500; 
+    font-size: 20px; 
+}
+
+.feature-title:hover{
+    color: black;
+    font-weight: 700;
+}
+
+.feature-text{
+    font-size: 16px; 
+}
+
+.feature-text:hover{
+    color: black;
+    font-weight: 700;
+}
+

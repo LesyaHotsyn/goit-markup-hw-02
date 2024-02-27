@@ -4,6 +4,7 @@ body{
     font-weight: 400;
     max-width: 1440px;
 }
+
 h1, h2, h3, p{
     color: #2E2F42;
 }
@@ -110,6 +111,7 @@ ul{
     font-weight: 500;
     font-size: 20px;
     line-height: 24px; 
+    color: #2E2F42;
 }
 
 .portfolio-text{
@@ -118,3 +120,22 @@ ul{
     color: #434455;
 }
 
+.footer{
+    height: 312px;
+    background-color: #2E2F42;
+}
+
+.footer-logo{
+    color: #F4F4FD;
+    text-transform: uppercase;
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.footer-text{
+    color: #F4F4FD;
+    width: 264px;
+    font-size: 16px; 
+    line-height: 24px;
+}

@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
-  /* max-width: 1440px; */
   background-color: #ffffff;
   color: #434455;
 }
@@ -61,7 +60,7 @@ ul {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 
 .header-nav-item:hover {
@@ -83,22 +82,20 @@ ul {
 
 .address-mail:hover {
   font-weight: 700;
-  color: black;
+  color: #404bbf;
 }
 
 .address-phone:hover {
   font-weight: 700;
-  color: black;
+  color: #404bbf;
 }
 
 .hero {
   background-color: #2e2f42;
-  /* height: 600px; */
 }
 
 .hero-title {
   font-size: 56px;
-  /* width: 496px; */
   font-weight: 700;
   line-height: 1.07;
   text-align: center;
@@ -111,9 +108,6 @@ ul {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 1.5;
-  /* width: 169px; */
-  /* height: 56px; */
-  /* border-radius: 4px; */
   cursor: pointer;
   letter-spacing: 0.04em;
 }
@@ -125,14 +119,9 @@ ul {
 }
 
 .feature {
-  /* width: 1128px; */
   line-height: 24px;
   color: #2e2f42;
 }
-
-/* .li-feature {
-  width: 264px;
-} */
 
 .feature-title {
   font-weight: 500;
@@ -171,7 +160,6 @@ ul {
 }
 
 .our-team-li {
-  /* width: 264px; */
   text-align: center;
   background-color: #ffffff;
 }
@@ -184,13 +172,11 @@ ul {
 }
 
 .our-team-proff {
-  /* font-size: 16px; */
   line-height: 24px;
   color: #434455;
 }
 
 /* .portfolio {
-  width: 1128px;
 } */
 
 .portfolio-title {
@@ -202,7 +188,6 @@ ul {
 }
 
 /* .portfolio-li {
-  width: 360px;
 } */
 
 .portfolio-subtitle {
@@ -219,7 +204,6 @@ ul {
 }
 
 .footer {
-  /* height: 312px; */
   background-color: #2e2f42;
 }
 
@@ -229,7 +213,6 @@ ul {
 
 .footer-text {
   color: #f4f4fd;
-  /* width: 264px; */
   font-size: 16px;
   line-height: 24px;
 }

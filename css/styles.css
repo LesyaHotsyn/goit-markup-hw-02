@@ -76,16 +76,11 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.address-mail {
+.address-item {
   color: #434455;
 }
 
-.address-mail:hover {
-  font-weight: 700;
-  color: #404bbf;
-}
-
-.address-phone:hover {
+.address-item:hover {
   font-weight: 700;
   color: #404bbf;
 }
